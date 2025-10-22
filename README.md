@@ -94,7 +94,7 @@ Piccole e medie attività di ristorazione necessitano di:
 
 ## 📊 Metriche di Performance
 
-<img width="1897" height="526" alt="image" src="https://github.com/user-attachments/assets/08b148cc-733e-4405-ac88-c3696d3f16c6" />
+<img width="933" height="514" alt="image" src="https://github.com/user-attachments/assets/eefbcdca-efdb-407a-8050-e226e5c0c71e" />
 
 ---
 
