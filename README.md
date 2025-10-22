@@ -223,7 +223,7 @@ prototype/
 
 **Cliente**: Ristorante di pesce, Anzio (RM)  
 **Deployment**: Dicembre 2024  
-**URL**: [ristorantekilo.it](https://www.kiloristorante.it/)
+**URL**: [www.kiloristorante.it](https://www.kiloristorante.it/)
 
 **Risultati**:
 - Prenotazioni digitalizzate: +60% efficienza gestione
