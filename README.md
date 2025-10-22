@@ -250,7 +250,7 @@ Proprietario - Tutti i diritti riservati
 
 - **Demo Live**: [tuosito.it](https://yanikdimitrov.vercel.app/)
 - **Email**: yanik.dimitrov@outlook.com
-- **LinkedIn**: [linkedin.com/in/tuoprofilo](https://www.linkedin.com/in/yanik-dimitrov/)
+- **LinkedIn**: [Yanik Dimitrov](https://www.linkedin.com/in/yanik-dimitrov/)
 
 ---
 
