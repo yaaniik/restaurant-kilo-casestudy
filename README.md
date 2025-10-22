@@ -223,7 +223,7 @@ prototype/
 
 **Cliente**: Ristorante di pesce, Anzio (RM)  
 **Deployment**: Dicembre 2024  
-**URL**: [ristorantekilo.it](https://ristorantekilo.it) *(esempio)*
+**URL**: [ristorantekilo.it](https://www.kiloristorante.it/)
 
 **Risultati**:
 - Prenotazioni digitalizzate: +60% efficienza gestione
@@ -235,23 +235,22 @@ prototype/
 
 ## 🤝 Contributi
 
-Questo è un progetto proprietario attualmente non aperto a contributi esterni.  
-Per segnalazioni bug o richieste feature: [apri issue](../../issues)
+Questo è un progetto proprietario attualmente non aperto a contributi esterni. 
 
 ---
 
 ## 📄 Licenza
 
 Proprietario - Tutti i diritti riservati  
-© 2024-2025 [Tuo Nome/Azienda]
+© 2024-2025 [Yanik Dimitrov/ KILO ristorante]
 
 ---
 
 ## 📞 Contatti
 
-- **Demo Live**: [tuosito.it](https://tuosito.it)
-- **Email**: tua@email.com
-- **LinkedIn**: [linkedin.com/in/tuoprofilo](https://linkedin.com/in/tuoprofilo)
+- **Demo Live**: [tuosito.it](https://yanikdimitrov.vercel.app/)
+- **Email**: yanik.dimitrov@outlook.com
+- **LinkedIn**: [linkedin.com/in/tuoprofilo](https://www.linkedin.com/in/yanik-dimitrov/)
 
 ---
 
@@ -260,7 +259,6 @@ Proprietario - Tutti i diritti riservati
 - [Mantine UI](https://mantine.dev/) - Component library
 - [Vite](https://vitejs.dev/) - Build tool
 - [React](https://react.dev/) - Framework
-- [Cloudflare](https://cloudflare.com/) - DNS & CDN
 
 ---
 
