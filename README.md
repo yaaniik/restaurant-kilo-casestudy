@@ -263,5 +263,5 @@ Proprietario - Tutti i diritti riservati
 ---
 
 <p align="center">
-  <sub>Built with ❤️ for the restaurant industry</sub>
+  <sub>Built with 💜 for the restaurant industry</sub>
 </p>
