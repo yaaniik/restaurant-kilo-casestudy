@@ -221,7 +221,7 @@ prototype/
 
 ## 📈 Case Study: Ristorante KILO
 
-**Cliente**: Ristorante di pesce, Anzio (RM)  
+**Cliente**: Ristorante di pesce  
 **Deployment**: Dicembre 2024  
 **URL**: [www.kiloristorante.it](https://www.kiloristorante.it/)
 
