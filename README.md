@@ -1,4 +1,4 @@
-# 🍽️ ANT_RESERVE - Piattaforma Multi-Tenant per Ristoranti
+# ANT_RESERVE - Piattaforma Multi-Tenant per Ristoranti
 
 > Sistema completo di gestione prenotazioni, sondaggi e contenuti per attività di ristorazione con architettura multi-cliente.
 
