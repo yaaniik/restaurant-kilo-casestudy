@@ -2,7 +2,7 @@
 
 > Sistema completo di gestione prenotazioni, sondaggi e contenuti per attività di ristorazione con architettura multi-cliente.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://www.kiloristorante.it/)
+[![Live](https://img.shields.io/badge/demo-live-success)](https://www.kiloristorante.it/)
 [![Status](https://img.shields.io/badge/status-in%20development-yellow)]()
 [![License](https://img.shields.io/badge/license-proprietary-red)]()
 
