@@ -5,8 +5,6 @@
 [![Live Demo](https://img.shields.io/badge/demo-live-success)](https://www.kiloristorante.it/)
 [![Status](https://img.shields.io/badge/status-in%20development-yellow)]()
 [![License](https://img.shields.io/badge/license-proprietary-red)]()
-[![React](https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 
 ---
 
@@ -61,12 +59,11 @@ Le piccole e medie attività di ristorazione affrontano quotidianamente:
 - Recharts (grafici)
 
 **Backend**
-- PHP 8.2+ (API RESTful)
+- PHP 8.2+
 - File-based storage (JSON)
 - ConfigHelper per multi-tenancy
 
 **Infrastruttura**
-- Cloudflare (DNS, CDN, SSL)
 - Aruba Hosting condiviso
 - cron-job.org (cronjob esterni)
 
@@ -103,12 +100,6 @@ Le piccole e medie attività di ristorazione affrontano quotidianamente:
 ### Lighthouse Score (Desktop)
 <img width="933" height="514" alt="Lighthouse Performance" src="https://github.com/user-attachments/assets/eefbcdca-efdb-407a-8050-e226e5c0c71e" />
 
-**Risultati:**
-- Performance: 99/100
-- Accessibility: 100/100
-- Best Practices: 100/100
-- SEO: 91/100
-
 ### Metriche Web Vitals
 
 | Metrica | Valore | Status |
@@ -117,19 +108,6 @@ Le piccole e medie attività di ristorazione affrontano quotidianamente:
 | Largest Contentful Paint | 1.2s | ✅ Eccellente |
 | Total Blocking Time | 50ms | ✅ Eccellente |
 | Cumulative Layout Shift | 0.01 | ✅ Eccellente |
-
----
-
-## 📸 Screenshots
-
-### Landing Page
-![Homepage](docs/screenshots/homepage.png)
-
-### Dashboard Prenotazioni
-![Dashboard](docs/screenshots/dashboard.png)
-
-### Analisi Sondaggi
-![Analytics](docs/screenshots/analytics.png)
 
 ---
 
@@ -176,10 +154,6 @@ cd ANT_RESERVE/prototype
 
 # Installa dipendenze
 npm install
-
-# Configura backend
-echo "kilo" > data/active_client.txt
-chmod 755 -R data/
 
 # Avvia dev server
 npm run dev
@@ -234,7 +208,7 @@ prototype/
 
 ## 📈 Case Study: Ristorante KILO
 
-**Cliente**: Ristorante di pesce - Anzio (RM)  
+**Cliente**: Ristorante di pesce
 **Deployment**: Dicembre 2024  
 **URL Live**: [www.kiloristorante.it](https://www.kiloristorante.it/)
 
@@ -259,14 +233,13 @@ prototype/
 
 > "Prima perdevo 2 ore al giorno solo per gestire le prenotazioni telefoniche. Ora con ANT_RESERVE tutto è automatizzato e ho più tempo da dedicare alla cucina. Il sistema si è ripagato in meno di 3 mesi."
 > 
-> — **Giuseppe Romano**, Proprietario KILO Ristorante
+> — **Giuliano**, Proprietario KILO Ristorante
 
 ---
 
 ## 🤝 Contributi
 
 Questo è un progetto proprietario attualmente non aperto a contributi esterni.  
-Per segnalazioni bug o feature requests: [Apri issue](https://github.com/yaaniik/restaurant-kilo-casestudy/issues)
 
 ---
 
@@ -282,7 +255,7 @@ Per richieste di licenza commerciale: yanik.dimitrov@outlook.com
 ## 📞 Contatti
 
 **Yanik Dimitrov**  
-Full-Stack Developer specializzato in soluzioni SaaS per PMI
+Full-Stack Developer
 
 - 🌐 **Portfolio**: [yanikdimitrov.vercel.app](https://yanikdimitrov.vercel.app/)
 - 💼 **LinkedIn**: [linkedin.com/in/yanik-dimitrov](https://www.linkedin.com/in/yanik-dimitrov/)
@@ -297,7 +270,6 @@ Tecnologie e community:
 - [React](https://react.dev/) - Framework UI
 - [Vite](https://vitejs.dev/) - Build tool ultra-veloce
 - [Mantine UI](https://mantine.dev/) - Component library
-- [TypeScript](https://www.typescriptlang.org/) - Type safety
 
 Un ringraziamento speciale al team di **KILO Ristorante** per la fiducia e il feedback durante la fase beta.
 
