@@ -94,12 +94,7 @@ Piccole e medie attività di ristorazione necessitano di:
 
 ## 📊 Metriche di Performance
 
-| Metrica | Valore | Metodo |
-|---------|--------|--------|
-| Time to Interactive | < 2s | Lighthouse |
-| First Contentful Paint | < 1.5s | Lighthouse |
-| Bundle Size | ~250KB (gzipped) | Vite Build |
-| Lighthouse Score | 95+ | Chrome DevTools |
+<img width="1897" height="526" alt="image" src="https://github.com/user-attachments/assets/08b148cc-733e-4405-ac88-c3696d3f16c6" />
 
 ---
 
