@@ -276,9 +276,5 @@ Un ringraziamento speciale al team di **KILO Ristorante** per la fiducia e il fe
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-💜-purple?style=for-the-badge" alt="Made with Love" />
-</p>
-
-<p align="center">
   <sub>Built with 💜 for the restaurant industry</sub>
 </p>
