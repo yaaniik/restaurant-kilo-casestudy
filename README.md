@@ -248,7 +248,7 @@ Proprietario - Tutti i diritti riservati
 
 ## 📞 Contatti
 
-- **Demo Live**: [tuosito.it](https://yanikdimitrov.vercel.app/)
+- **Sito**: [YD-yanikdimitrov](https://yanikdimitrov.vercel.app/)
 - **Email**: yanik.dimitrov@outlook.com
 - **LinkedIn**: [Yanik Dimitrov](https://www.linkedin.com/in/yanik-dimitrov/)
 
